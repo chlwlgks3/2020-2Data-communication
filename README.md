@@ -2,7 +2,7 @@
 2020-2학기 조유제교수님의 데이타통신 과목을 정리한것입니다.
 
 ## hw1~hw6
-데이타통신과제인 Data communications and networking_Forouzan의 문제들을 풀이한 과제입니다.  
+데이타통신교재인 Data communications and networking_Forouzan의 문제들을 풀이한 과제입니다.  
 
 
 ## TermProject1  
